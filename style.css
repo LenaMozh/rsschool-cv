@@ -1,0 +1,21 @@
+.photo1 {
+  margin-right: 40px;
+  margin-top: 20px;
+  float: left;
+}
+.contactblock {
+  margin-top: 40px;
+}
+.block2 {
+  margin: 25px;
+  padding: 10px;
+}
+.block1 {
+  overflow: hidden;
+  height: auto;
+}
+.block {
+  max-width: 50em;
+  margin: 0 auto;
+  text-align: justify;
+}
